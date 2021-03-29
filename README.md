@@ -14,7 +14,7 @@
 
 ### Languages and Tools
 
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png){ width=50% }
+![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png){: width=50% }
 ![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
 ![SASS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png)
 ![Tailwind](https://avatars.githubusercontent.com/u/67109815?s=200&v=4)
