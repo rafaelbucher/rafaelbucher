@@ -23,8 +23,8 @@
 ![TypeScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)
 ![Angular](https://avatars.githubusercontent.com/u/139426?s=200&v=4)
 ![WebStorm](https://raw.githubusercontent.com/JetBrains/logos/09bc00a4f1ff8df3a65f2008d570a5ea4979c04e/web/webstorm/webstorm.svg)
-![Visual studio code](https://code.visualstudio.com/favicon.ico){:height="36px" width="36px"}.
-![GitHub](https://github.com/favicon.ico){:height="360px" width="360px"}.
+![Visual studio code](https://code.visualstudio.com/favicon.ico)
+![GitHub](https://github.com/favicon.ico)
 ![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
 
 ---
