@@ -16,9 +16,8 @@
 ---
 
 ### Languages and Tools
-
-![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png {:height="25%" width="25%"})
-![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png "Logo CSS3" | width=35)
+[image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png {:height="25%" width="25%"})
+[alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png "Logo CSS3" | width=35)
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png "Logo SASS" | width=35)
 ![alt text](https://avatars.githubusercontent.com/u/67109815?s=200&v=4 "Logo Tailwind" | width=35)
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png "Logo Bootstrap" | width=35)
