@@ -11,9 +11,7 @@
 - 💯 I like binge listening, urban walking and patisserie.
 - 🏀 I love to play Basket and really want to practice more.
 
-### Feel free to contact me 🚀
-rafael.bchr@gmail.com
-+33 7 53 16 04 32
+### Feel free to [contact me](mailto:rafael.bchr@gmail.com) 🚀
 
 ---
 
