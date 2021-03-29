@@ -14,7 +14,7 @@
 
 ### Languages and Tools
 
-# HTML5, CSS3, SASS, Tailwind, Bootstrap, BEM, SMACSS, Utility-first, JavaScript, TypeScript, Angular, WebStorm, Visual Stuadio Code, GitHub, GitLab, Terminal, Jira
+## HTML5, CSS3, SASS, Tailwind, Bootstrap, BEM, SMACSS, Utility-first, JavaScript, TypeScript, Angular, WebStorm, Visual Stuadio Code, GitHub, GitLab, Terminal, Jira
 
 <details>
 <summary>💥 Experience 💥</summary>
