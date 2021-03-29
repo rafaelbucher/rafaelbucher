@@ -27,6 +27,21 @@
 ![GitHub](https://github.com/favicon.ico)
 ![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
 
+<details open>
+<summary>Experience</summary>
+<br>
+Well, you asked for it!
+</details>
+
+
+<details open>
+<summary>Education</summary>
+<br>
+2017 : Le Wagon - Paris
+<br>
+2012 : ITSI
+</details>
+
 ---
 
 ### Feel free to [contact me](mailto:rafael.bchr@gmail.com) 🚀
