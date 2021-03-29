@@ -17,7 +17,7 @@
 
 ### Languages and Tools
 
-![smiley](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png){:height="36px" width="36px"}
+![smiley](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =36x)
 
 [image]( {:height="25%" width="25%"})
 [alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png | width=35)
