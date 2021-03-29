@@ -18,7 +18,7 @@
 
 ![test](https://github.com/favicon.ico | width=800px)
 
-![smiley](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =36x)
+![smiley](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=30)
 
 [image]( {:height="25%" width="25%"})
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png){height=30px width=30px}
