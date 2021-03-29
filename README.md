@@ -1,6 +1,6 @@
-### Bonjour 👋
-### Je suis Rafaël BÜCHER
-## Frontend / Integrator
+# Bonjour 👋
+# Je suis Rafaël BÜCHER
+### Frontend / Integrator
 
 - 💻 I'm freelance Web developer with 10 years experience.
 - ❤️ I love to code and build web applications. 
@@ -17,7 +17,7 @@
 
 ### Languages and Tools
 
-![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png "Logo HTML5"){:height="25%" width="25%"}
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png {:height="25%" width="25%"})
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png "Logo CSS3" | width=35)
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png "Logo SASS" | width=35)
 ![alt text](https://avatars.githubusercontent.com/u/67109815?s=200&v=4 "Logo Tailwind" | width=35)
