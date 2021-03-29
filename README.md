@@ -24,8 +24,7 @@
 ![Angular](https://avatars.githubusercontent.com/u/139426?s=200&v=4)
 ![WebStorm](https://raw.githubusercontent.com/JetBrains/logos/09bc00a4f1ff8df3a65f2008d570a5ea4979c04e/web/webstorm/webstorm.svg)
 ![Visual studio code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
-![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
+![GitHub](https://github.com/favicon.ico)![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
 
 ---
 
