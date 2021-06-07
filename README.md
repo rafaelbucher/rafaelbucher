@@ -1,4 +1,4 @@
-# Bonjour 👋 I'm Rafaël BUCHER !
+# 👋 I'm Rafaël BUCHER !
 ### Frontend / Integrator
 
 - 💻 I'm freelance Web developer with 10 years experience.
